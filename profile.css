@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font-size: 70;
+    font-family: monospace;
+}
+
+header{
+    height: 150px;
+}
+ul{background-color: black;
+    height: 30px;
+}
+
+
+li{
+    display: inline;
+}
+a{
+    font-size: 20px;
+    color: black;
+    text-decoration: none
+
+}
+a:hover{
+    color: blanchedalmond;
+}
+img{
+
+    border: 5px black solid;
+    border-radius: 40px;
+    
+    
+}
+ol{
+    padding-left: 320px;
+    padding-right: 320px;
+    ;list-style: lower-roman
+}
+
+    
+
+      
+
